@@ -1,0 +1,17 @@
+theme: jekyll-theme-architect
+plugins:
+  - jekyll-relative-links
+  # - jekyll-sitemap
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
+  - googleb25466d0ae0c4d6f.html
+google_analytics: UA-229299773-1
